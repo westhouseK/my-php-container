@@ -1,2 +1,2 @@
-# my_php
+# my-php-container
 Dockerのphpコンテナ用
